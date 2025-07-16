@@ -1,4 +1,4 @@
-# 🌌 [Alex Kratofil] | Astronomy & Astrophysics Researcher
+# 🌌 Alex Kratofil | Astronomy & Astrophysics Researcher
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your-linkedin)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:your-email@domain.com)

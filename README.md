@@ -4,7 +4,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:your-email@domain.com)
 [![Astrobin](https://img.shields.io/badge/Astrobin-Astrophotography-green)](your-astrobin-link)
 
-Welcome to my research hub! I specialize in **astrophysical data analysis** and **observational astronomy**. This space showcases my academic research, computational astrophysics projects, and astrophotography work.
+Welcome to my research hub! I am working toward a specialization in **astrophysical data analysis** and **observational astronomy**. This space showcases my academic research, computational astrophysics projects, and astrophotography work.
 
 ```mermaid
 graph LR
